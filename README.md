@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [ecoCode](https://github.com/green-code-initiative/ecoCode)
+- 🤔 I’m looking for help with [ecoCode-dashboard](https://github.com/green-code-initiative/ecoCode-dashboard)
+- 💬 Ask me about Sustainable IT, JavaScript, REST, Test automation strategies
+
+
 ### Some stats
+
 ![](https://github-readme-stats.vercel.app/api?username=amorgaut&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amorgaut&layout=donut&theme=radical)
