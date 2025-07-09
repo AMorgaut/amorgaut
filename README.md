@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ecoCode](https://github.com/green-code-initiative/ecoCode)
-- 🤔 I’m looking for help with [ecoCode-dashboard](https://github.com/green-code-initiative/ecoCode-dashboard)
+- 🔭 I’m currently working on [Creedengo](https://github.com/green-code-initiative/Creedengo)
+- 🤔 I’m looking for help with [Creedengo-dashboard](https://github.com/green-code-initiative/creedengo-dashboard)
 - 💬 Ask me about Sustainable IT, JavaScript, REST, Test automation strategies
 
 
